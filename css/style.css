@@ -1,5 +1,5 @@
 .container {
-  padding: 40vh 0;
+  padding: 25.5vh 0;
 }
 
 .heart {
@@ -12,7 +12,8 @@
   top: 0;
   transform: rotate(-45deg);
   position: absolute;
-  left: 45%; top: 45%;
+  left: 45%;
+  top: 45%;
   width: 50px;
 }
 

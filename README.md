@@ -2,7 +2,7 @@
 
 Beating heart project based on a Free Code Camp article. Go to https://bit.ly/2BwiIc4 to see article.
 
-## Instructions 
+## Instructions
 Clone or download zip file. Open index.file in your browser.
 
 ## Contributing
