@@ -4,7 +4,7 @@
 
 .heart {
   animation: heartbeat 1s infinite;
-  background-color: blue;
+  background-color: red;
   display: inline-block;
   height: 50px;
   margin: 0 10px;
@@ -19,7 +19,7 @@
 
 .heart:before, .heart:after {
   content: "";
-  background-color: blue;
+  background-color: red;
   border-radius: 50%;
   height: 50px;
   position: absolute;
@@ -54,6 +54,7 @@
 
 h1 {
   text-align: center;
-  font-size: 5em;
+  font-size: 55px;
+  padding: 75px;
   font-family: 'Srisakdi', cursive;
 }
